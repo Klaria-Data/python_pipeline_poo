@@ -1,3 +1,3 @@
 # python_pipeline_poo
 
-Online curse that i make in Alura, for learning the begging topics of data engineer.
+Repositório destinado aos arquivos de um curso de python, com padrões iniciais feito na Alura.
